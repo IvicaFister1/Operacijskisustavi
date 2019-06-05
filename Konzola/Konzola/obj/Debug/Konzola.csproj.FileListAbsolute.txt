@@ -1,0 +1,7 @@
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\obj\Debug\Konzola.csprojAssemblyReference.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\obj\Debug\Konzola.csproj.CoreCompileInputs.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\bin\Debug\procesi.exe.config
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\bin\Debug\procesi.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\bin\Debug\procesi.pdb
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\obj\Debug\procesi.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Konzola\Konzola\obj\Debug\procesi.pdb
