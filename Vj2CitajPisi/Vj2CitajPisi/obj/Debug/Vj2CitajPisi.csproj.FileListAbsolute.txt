@@ -1,0 +1,10 @@
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\bin\Debug\Vj2CitajPisi.exe.config
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\bin\Debug\Vj2CitajPisi.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\bin\Debug\Vj2CitajPisi.pdb
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.csprojAssemblyReference.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.Form1.resources
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.Properties.Resources.resources
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.csproj.GenerateResource.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.csproj.CoreCompileInputs.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\Moje vjezbe\Vj2CitajPisi\Vj2CitajPisi\obj\Debug\Vj2CitajPisi.pdb
