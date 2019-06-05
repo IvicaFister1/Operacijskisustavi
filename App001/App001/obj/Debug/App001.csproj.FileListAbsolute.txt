@@ -1,0 +1,7 @@
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\bin\Debug\App001.exe.config
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\bin\Debug\App001.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\bin\Debug\App001.pdb
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\obj\Debug\App001.csprojAssemblyReference.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\obj\Debug\App001.csproj.CoreCompileInputs.cache
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\obj\Debug\App001.exe
+C:\Users\ifister.IPCCK\Desktop\FAKS\Operacijski\App001\App001\obj\Debug\App001.pdb
